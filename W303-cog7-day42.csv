@@ -1,0 +1,835 @@
+Gene,Sample,Number,Change,Protein Effect,Polymorphism Type,Variant Frequency,Average Quality,Minimum,Maximum
+COS7 CDS,N2,42,T -> A,Substitution,SNP (transversion),71.9,29,1933,1933
+COS7 CDS,N1,35,T -> A,Substitution,SNP (transversion),76.4,30,1933,1933
+COS7 CDS,N2,41,T -> G,Substitution,SNP (transversion),72.6,31,1946,1946
+COS7 CDS,N1,34,T -> G,Substitution,SNP (transversion),76.9,32,1946,1946
+COS7 CDS,N1,33,A -> C,Substitution,SNP (transversion),77.7,29,1948,1948
+COS7 CDS,N2,40,A -> C,Substitution,SNP (transversion),74.8,28,1948,1948
+COS7 CDS,N1,32,A -> G,None,SNP (transition),72.0,31,1979,1979
+COS7 CDS,N2,39,A -> G,None,SNP (transition),63.8,31,1979,1979
+COS7 CDS,N1,31,A -> G,None,SNP (transition),63.1,30,2009,2009
+COS7 CDS,N2,38,A -> G,None,SNP (transition),57.1,32,2009,2009
+COS7 CDS,N1,30,T -> C,Substitution,SNP (transition),64.0,28,2011,2011
+COS7 CDS,N2,37,T -> C,Substitution,SNP (transition),58.0,30,2011,2011
+COS7 CDS,N1,29,A -> G,Substitution,SNP (transition),61.6,30,2016,2016
+COS7 CDS,N2,36,A -> G,Substitution,SNP (transition),55.8,32,2016,2016
+COS7 CDS,N2,35,A -> G,Substitution,SNP (transition),57.1,32,2019,2019
+COS7 CDS,N1,28,A -> G,Substitution,SNP (transition),61.2,29,2019,2019
+COS7 CDS,N1,27,G -> A,Substitution,SNP (transition),58.2,29,2025,2025
+COS7 CDS,N2,34,G -> A,Substitution,SNP (transition),53.7,32,2025,2025
+COS7 CDS,N2,33,TA -> CT,Substitution,Substitution,52.9,33,2028,2029
+COS7 CDS,N1,26,TA -> CT,Substitution,Substitution,56.2,29,2028,2029
+COS7 CDS,N1,25,C -> T,Substitution,SNP (transition),57.1,28,2031,2031
+COS7 CDS,N2,32,C -> T,Substitution,SNP (transition),52.1,31,2031,2031
+COS7 CDS,N1,24,T -> C,None,SNP (transition),57.9,29,2036,2036
+COS7 CDS,N2,31,T -> C,None,SNP (transition),51.3,32,2036,2036
+COS7 CDS,N1,23,T -> A,Substitution,SNP (transversion),57.3,29,2038,2038
+COS7 CDS,N2,30,T -> A,Substitution,SNP (transversion),52.6,33,2038,2038
+COS7 CDS,N2,29,T -> C,Substitution,SNP (transition),51.7,32,2041,2041
+COS7 CDS,N1,22,T -> C,Substitution,SNP (transition),56.0,30,2041,2041
+COS7 CDS,N1,21,C -> A,Substitution,SNP (transversion),54.7,28,2046,2046
+COS7 CDS,N1,20,C -> T,Substitution,SNP (transition),53.4,30,2049,2049
+COS7 CDS,N1,19,GT -> CG,Substitution,Substitution,51.0,30,2052,2053
+PAU11 CDS,N2,301,Y -> C,Substitution,SNP,100.0,4,6414,6414
+PAU11 CDS,N1,268,Y -> C,Substitution,SNP,100.0,6,6414,6414
+PAU11 CDS,N1,267,K -> G,None,SNP,100.0,6,6417,6417
+PAU11 CDS,N2,300,KGK -> GGT,Substitution,Substitution,100.0,4,6417,6419
+PAU11 CDS,N1,266,K -> G,None,SNP,100.0,5,6420,6420
+PAU11 CDS,N1,265,R -> G,None,SNP,100.0,5,6423,6423
+PAU11 CDS,N2,299,R -> G,None,SNP,100.0,4,6423,6423
+PAU11 CDS,N1,264,MYM -> ACC,Substitution,Substitution,100.0,5,6429,6431
+PAU11 CDS,N1,263,K -> G,Substitution,SNP,100.0,5,6435,6435
+PAU11 CDS,N2,298,C -> A,Substitution,SNP (transversion),100.0,4,6440,6440
+PAU11 CDS,N1,262,C -> A,Substitution,SNP (transversion),100.0,5,6440,6440
+PAU11 CDS,N1,261,W -> A,Substitution,SNP,100.0,5,6442,6442
+PAU11 CDS,N2,297,W -> A,Substitution,SNP,100.0,4,6442,6442
+PAU11 CDS,N1,260,K -> G,Substitution,SNP,100.0,5,6445,6445
+PAU11 CDS,N2,296,K -> G,Substitution,SNP,100.0,4,6445,6445
+PAU11 CDS,N2,295,Y -> C,Substitution,SNP,96.0,4,6449,6449
+PAU11 CDS,N1,259,Y -> C,Substitution,SNP,100.0,5,6449,6449
+PAU11 CDS,N1,258,S -> C,Substitution,SNP,100.0,4,6455,6455
+PAU11 CDS,N2,294,S -> C,Substitution,SNP,100.0,4,6455,6455
+PAU11 CDS,N1,257,KGR -> TGG,Substitution,Substitution,100.0,4,6462,6464
+PAU11 CDS,N2,293,KGR -> TGG,Substitution,Substitution,96.8,4,6462,6464
+PAU11 CDS,N2,292,Y -> T,Substitution,SNP,100.0,4,6466,6466
+PAU11 CDS,N1,256,Y -> T,Substitution,SNP,100.0,4,6466,6466
+PAU11 CDS,N2,291,W -> T,Substitution,SNP,93.8,3,6470,6470
+PAU11 CDS,N1,255,W -> T,Substitution,SNP,100.0,4,6470,6470
+PAU11 CDS,N2,290,S -> C,Substitution,SNP,96.9,4,6473,6473
+PAU11 CDS,N1,254,S -> C,Substitution,SNP,100.0,4,6473,6473
+PAU11 CDS,N1,253,Y -> T,None,SNP,100.0,4,6477,6477
+PAU11 CDS,N2,289,Y -> T,None,SNP,97.1,3,6477,6477
+PAU11 CDS,N1,252,K -> G,None,SNP,100.0,4,6483,6483
+PAU11 CDS,N2,288,K -> G,None,SNP,100.0,3,6483,6483
+PAU11 CDS,N3,192,K -> G,None,SNP,100.0,4,6483,6483
+PAU11 CDS,N3,191,KGW -> GGC,Substitution,Substitution,100.0,5,6486,6488
+PAU11 CDS,N2,287,KGW -> GGC,Substitution,Substitution,97.4,3,6486,6488
+PAU11 CDS,N1,251,KGW -> GGC,Substitution,Substitution,97.5,4,6486,6488
+PAU11 CDS,N3,190,K -> T,Substitution,SNP,97.1,5,6490,6490
+PAU11 CDS,N2,286,K -> T,Substitution,SNP,100.0,3,6490,6490
+PAU11 CDS,N1,250,K -> T,Substitution,SNP,90.5,4,6490,6490
+PAU11 CDS,N3,189,K -> T,Substitution,SNP,97.4,5,6502,6502
+PAU11 CDS,N2,285,K -> T,Substitution,SNP,95.5,4,6502,6502
+PAU11 CDS,N1,249,K -> T,Substitution,SNP,95.8,4,6502,6502
+PAU11 CDS,N1,248,MR -> AA,Substitution,Substitution,100.0,5,6511,6512
+PAU11 CDS,N2,284,MR -> AA,Substitution,Substitution,97.8,4,6511,6512
+PAU11 CDS,N3,188,MR -> AA,Substitution,Substitution,97.6,5,6511,6512
+PAU11 CDS,N2,283,M -> C,Substitution,SNP,98.0,6,6519,6519
+PAU11 CDS,N1,247,M -> C,Substitution,SNP,100.0,5,6519,6519
+PAU11 CDS,N3,187,M -> C,Substitution,SNP,97.7,5,6519,6519
+PAU11 CDS,N2,282,WRR -> TAT,Substitution,Substitution,94.7,6,6524,6526
+PAU11 CDS,N1,246,WRR -> TAT,Substitution,Substitution,94.7,5,6524,6526
+PAU11 CDS,N3,186,WRR -> TAT,Substitution,Substitution,93.2,5,6524,6526
+PAU11 CDS,N1,245,SW -> GA,Substitution,Substitution,98.3,6,6529,6530
+PAU11 CDS,N3,185,SW -> GA,Substitution,Substitution,95.5,5,6529,6530
+PAU11 CDS,N2,281,SW -> GA,Substitution,Substitution,96.8,7,6529,6530
+PAU11 CDS,N3,184,W -> A,Substitution,SNP,100.0,5,6532,6532
+PAU11 CDS,N2,280,W -> A,Substitution,SNP,98.4,7,6532,6532
+PAU11 CDS,N1,244,W -> A,Substitution,SNP,98.4,7,6532,6532
+PAU11 CDS,N2,279,R -> G,None,SNP,98.5,7,6537,6537
+PAU11 CDS,N1,243,R -> G,None,SNP,96.8,6,6537,6537
+PAU11 CDS,N3,183,R -> G,None,SNP,100.0,5,6537,6537
+PAU11 CDS,N3,182,MYY -> CCC,Substitution,Substitution,93.3,5,6541,6543
+PAU11 CDS,N1,242,MYY -> CCC,Substitution,Substitution,96.8,6,6541,6543
+PAU11 CDS,N2,278,MYY -> CCC,Substitution,Substitution,97.1,7,6541,6543
+PAU11 CDS,N2,277,+T,Frame Shift,Insertion,100.0,8,6547,6546
+PAU11 CDS,N1,241,CA -> TC,Extension,Substitution,100.0,7,6547,6548
+PAU11 CDS,N3,181,CA -> TC,Extension,Substitution,95.6,6,6547,6548
+PAU11 CDS,N3,180,C -> A,Substitution,SNP (transversion),100.0,6,6550,6550
+PAU11 CDS,N1,240,C -> A,Substitution,SNP (transversion),98.4,7,6550,6550
+PAU11 CDS,N3,179,A -> C,Substitution,SNP (transversion),100.0,6,6552,6552
+PAU11 CDS,N1,239,A -> C,Substitution,SNP (transversion),100.0,7,6552,6552
+PAU11 CDS,N2,276,(A)3 -> (A)2,Frame Shift,Deletion (tandem repeat),100.0,4,6554,6554
+PAU11 CDS,N1,238,KR -> TG,Substitution,Substitution,98.5,7,6557,6558
+PAU11 CDS,N3,178,KR -> TG,Substitution,Substitution,95.9,8,6557,6558
+PAU11 CDS,N2,275,KR -> TG,Substitution,Substitution,98.7,10,6557,6558
+COS8 CDS,N2,55,C -> A,None,SNP (transversion),51.9,29,6844,6844
+COS8 CDS,N2,54,C -> A,Substitution,SNP (transversion),53.7,31,6850,6850
+COS8 CDS,N2,53,A -> G,Substitution,SNP (transition),51.9,32,6857,6857
+COS8 CDS,N2,52,T -> C,None,SNP (transition),51.5,30,6865,6865
+COS8 CDS,N2,51,A -> G,None,SNP (transition),51.1,34,6913,6913
+COS3 CDS,N3,45,C -> G,None,SNP (transversion),100.0,12,8034,8034
+COS3 CDS,N3,44,GGTGG -> TAGTA,Substitution,Substitution,89.5,13,8036,8040
+COS3 CDS,N3,43,TC -> GT,Substitution,Substitution,77.3,14,8043,8044
+COS3 CDS,N3,42,T -> C,Substitution,SNP (transition),90.9,13,8047,8047
+COS3 CDS,N3,41,ATG -> GCC,Substitution,Substitution,83.3,12,8050,8052
+COS3 CDS,N3,40,T -> A,Substitution,SNP (transversion),100.0,12,8053,8053
+COS3 CDS,N3,39,A -> G,None,SNP (transition),100.0,11,8058,8058
+COS3 CDS,N3,38,AAGG -> GGTC,Substitution,Substitution,96.0,11,8060,8063
+COS3 CDS,N3,37,A -> G,Substitution,SNP (transition),100.0,11,8076,8076
+COS3 CDS,N3,36,GT -> ACGACTGC,Insertion,Insertion,88.5,11,8080,8081
+COS3 CDS,N3,35,GATTA -> ACTCG,Substitution,Substitution,96.4,12,8085,8089
+COS3 CDS,N3,34,RC -> AA,Substitution,Substitution,90.0,13,8093,8094
+YPS5 CDS,N1,237,AAG -> CGT,Substitution,Substitution,54.3,27,8630,8632
+YPS5 CDS,N2,274,G -> T,None,SNP (transversion),50.0,31,8644,8644
+YPS5 CDS,N1,236,CTW -> TAT,Substitution,Substitution,57.8,30,8648,8650
+YPS5 CDS,N2,273,W -> A,None,SNP,51.9,25,8650,8650
+YPS5 CDS,N1,235,AC -> TG,Substitution,Substitution,63.0,30,8651,8652
+YPS5 CDS,N1,234,CK -> AT,Substitution,Substitution,67.4,29,8655,8656
+YPS5 CDS,N2,272,CK -> AT,Substitution,Substitution,53.8,30,8655,8656
+YPS5 CDS,N1,233,Y -> T,Truncation,SNP,74.4,28,8660,8660
+YPS5 CDS,N2,271,Y -> T,Truncation,SNP,60.0,32,8660,8660
+PAU14 CDS,N1,8,G -> A,None,SNP (transition),66.9,13,8870,8870
+PAU14 CDS,N2,8,G -> A,None,SNP (transition),56.3,13,8870,8870
+PAU14 CDS,N3,22,G -> A,None,SNP (transition),66.0,12,8870,8870
+TDA8 CDS,N1,307,T -> G,Substitution,SNP (transversion),100.0,29,13617,13617
+TDA8 CDS,N3,332,T -> G,Substitution,SNP (transversion),92.9,26,13617,13617
+TDA8 CDS,N2,333,T -> G,Substitution,SNP (transversion),95.3,32,13617,13617
+TDA8 CDS,N1,306,A -> G,None,SNP (transition),98.4,32,13655,13655
+TDA8 CDS,N2,332,A -> G,None,SNP (transition),93.8,32,13655,13655
+TDA8 CDS,N3,331,A -> G,None,SNP (transition),98.5,29,13655,13655
+hypothetical protein CDS,N1,7,T -> A,None,SNP (transversion),54.6,20,25590,25590
+FLO9 CDS,N3,318,S -> C,Substitution,SNP,83.8,23,25956,25956
+FLO9 CDS,N1,288,S -> C,Substitution,SNP,75.0,25,25956,25956
+FLO9 CDS,N2,321,S -> C,Substitution,SNP,89.1,26,25956,25956
+FLO9 CDS,N2,320,KTG -> TAC,Substitution,Substitution,55.8,26,25963,25965
+FLO9 CDS,N1,287,GT -> CC,Substitution,Substitution,61.0,20,25967,25968
+FLO9 CDS,N2,319,GTRA -> CCGT,Substitution,Substitution,68.4,25,25967,25970
+FLO9 CDS,N3,317,GT -> CC,Substitution,Substitution,65.6,22,25967,25968
+FLO9 CDS,N3,316,RA -> GT,Substitution,Substitution,73.3,21,25969,25970
+FLO9 CDS,N1,286,RA -> GT,Substitution,Substitution,67.5,20,25969,25970
+FLO9 CDS,N2,318,-T,Frame Shift,Deletion,100.0,12,25973,25973
+FLO9 CDS,N1,285,-T,Frame Shift,Deletion,100.0,9,25973,25973
+FLO9 CDS,N3,315,TG -> GT,Substitution,Substitution,96.4,21,25973,25974
+FLO9 CDS,N2,317,TGG -> CCA,Substitution,Substitution,67.6,26,25977,25979
+FLO9 CDS,N1,284,T -> C,Substitution,SNP (transition),75.0,20,25977,25977
+FLO9 CDS,N3,314,GGGDG -> AGTGA,Substitution,Substitution,53.8,23,25978,25982
+FLO9 CDS,N1,283,DGT -> TGA,Substitution,Substitution,56.7,22,25981,25983
+FLO9 CDS,N2,316,DGT -> TGA,Substitution,Substitution,84.4,26,25981,25983
+FLO9 CDS,N3,313,T -> A,None,SNP (transversion),76.9,20,25984,25984
+FLO9 CDS,N2,315,+A,Frame Shift,Insertion,67.7,28,25985,25984
+FLO9 CDS,N2,314,G -> A,None,SNP (transition),66.7,28,25987,25987
+FLO9 CDS,N3,312,GGT -> AGTC,Frame Shift,Insertion,52.0,24,25987,25989
+FLO9 CDS,N2,313,AAA -> CAT,Substitution,Substitution,66.7,29,25990,25992
+FLO9 CDS,N1,282,A -> C,Substitution,SNP (transversion),72.0,20,25990,25990
+FLO9 CDS,N3,311,AA -> TT,Substitution,Substitution,54.2,23,25991,25992
+FLO9 CDS,N3,310,WR -> TC,Substitution,Substitution,73.9,20,25993,25994
+FLO9 CDS,N1,281,WRG -> TTC,Substitution,Substitution,57.1,22,25993,25995
+FLO9 CDS,N2,312,WRG -> TTCT,Frame Shift,Insertion,60.0,26,25993,25995
+FLO9 CDS,N2,311,MSR -> GGA,Substitution,Substitution,78.3,25,25998,26000
+FLO9 CDS,N3,309,M -> G,Substitution,SNP,71.4,21,25998,25998
+FLO9 CDS,N3,308,SR -> GA,Substitution,Substitution,75.0,21,25999,26000
+FLO9 CDS,N2,310,SK -> GT,Substitution,Substitution,82.6,27,26002,26003
+FLO9 CDS,N3,307,SK -> GT,Substitution,Substitution,73.7,22,26002,26003
+FLO9 CDS,N1,280,KA -> GT,Substitution,Substitution,86.7,18,26003,26004
+FLO9 CDS,N2,309,KKR -> GAT,Substitution,Substitution,66.7,31,26005,26007
+FLO9 CDS,N1,279,KK -> AG,None,Substitution,61.5,19,26005,26006
+FLO9 CDS,N3,306,KKR -> GAT,Substitution,Substitution,52.9,22,26005,26007
+FLO9 CDS,N2,308,KW -> TG,Substitution,Substitution,88.2,25,26009,26010
+FLO9 CDS,N3,305,KW -> TG,Substitution,Substitution,86.7,21,26009,26010
+FLO9 CDS,N2,307,GG -> AA,Substitution,Substitution,81.3,27,26011,26012
+FLO9 CDS,N3,304,GG -> AA,Substitution,Substitution,50.0,25,26011,26012
+FLO9 CDS,N1,278,KY -> AG,Substitution,Substitution,58.3,19,26014,26015
+FLO9 CDS,N3,303,KYT -> GTA,Substitution,Substitution,57.1,24,26014,26016
+FLO9 CDS,N2,306,KYTAGT -> GTACCG,Substitution,Substitution,78.6,26,26014,26019
+FLO9 CDS,N3,302,AGT -> CCG,Substitution,Substitution,57.1,23,26017,26019
+FLO9 CDS,N1,277,GT -> CC,Substitution,Substitution,54.5,19,26018,26019
+FLO9 CDS,N3,301,ATGGA -> TCCAT,Substitution,Substitution,63.6,20,26021,26025
+FLO9 CDS,N2,305,ATGGA -> TCCAT,Substitution,Substitution,90.0,27,26021,26025
+FLO9 CDS,N1,276,A -> G,Substitution,SNP (transition),81.8,19,26021,26021
+FLO9 CDS,N3,300,C -> T,Substitution,SNP (transition),55.6,26,26028,26028
+FLO9 CDS,N3,299,GT -> TC,Substitution,Substitution,77.8,21,26029,26030
+FLO9 CDS,N3,298,A -> T,Substitution,SNP (transversion),77.8,12,26256,26256
+FLO9 CDS,N3,297,AC -> GT,Substitution,Substitution,90.0,12,26258,26259
+FLO9 CDS,N3,296,A -> T,None,SNP (transversion),66.7,16,26260,26260
+FLO9 CDS,N3,295,K -> T,None,SNP,81.8,14,26263,26263
+FLO9 CDS,N3,294,RTK -> TTT,Substitution,Substitution,53.8,14,26266,26268
+FLO9 CDS,N3,293,WK -> AC,Substitution,Substitution,73.3,14,26270,26271
+FLO9 CDS,N2,304,K -> C,None,SNP,80.0,18,26271,26271
+FLO9 CDS,N3,292,RAA -> AAC,Substitution,Substitution,81.3,14,26272,26274
+FLO9 CDS,N3,291,W -> T,Substitution,SNP,90.0,15,26280,26280
+FLO9 CDS,N2,303,W -> T,Substitution,SNP,85.7,15,26280,26280
+FLO9 CDS,N1,275,A -> G,None,SNP (transition),55.0,16,26302,26302
+FLO9 CDS,N1,274,C -> T,Substitution,SNP (transition),50.0,21,26402,26402
+HPF1 CDS,N3,3,G -> T,Substitution,SNP (transversion),60.7,24,31141,31141
+RCY1 CDS,N2,44,T -> C,Substitution,SNP (transition),50.0,21,50667,50667
+RCY1 CDS,N1,57,TGCTTGA -> GTACATT,Substitution,Substitution,56.6,28,50669,50675
+RCY1 CDS,N2,43,G -> T,Substitution,SNP (transversion),53.1,26,50674,50674
+RCY1 CDS,N2,42,T -> A,Truncation,SNP (transversion),50.0,26,50680,50680
+RCY1 CDS,N1,56,ATA -> TTC,Substitution,Substitution,59.6,25,50681,50683
+ARG8 CDS,N2,16,AG -> CA,Substitution,Substitution,66.7,27,58924,58925
+ARG8 CDS,N2,15,R -> ATG,Frame Shift,Insertion,52.6,25,58927,58927
+ARG8 CDS,N2,14,G -> A,Substitution,SNP (transition),73.3,21,58930,58930
+ARG8 CDS,N2,13,CCTCG -> AGATT,Substitution,Substitution,57.1,21,58934,58938
+MDM1 CDS,N3,33,T -> C,Substitution,SNP (transition),55.0,21,62305,62305
+MDM1 CDS,N1,7,T -> C,Substitution,SNP (transition),66.2,31,62305,62305
+MDM1 CDS,N2,39,T -> C,Substitution,SNP (transition),60.0,29,62305,62305
+MDM1 CDS,N1,6,ATA -> CTT,Substitution,Substitution,59.0,26,62319,62321
+MDM1 CDS,N3,32,ATA -> CTT,Substitution,Substitution,50.0,25,62319,62321
+PIR3 CDS,N1,20,T -> A,None,SNP (transversion),51.5,24,144808,144808
+SRD1 CDS,N2,16,+A,Frame Shift,Insertion,55.6,25,148847,148846
+SRD1 CDS,N1,13,AG -> TT,Substitution,Substitution,66.7,31,148849,148850
+SRD1 CDS,N1,12,TK -> CT,Substitution,Substitution,60.9,26,148852,148853
+SRD1 CDS,N2,15,K -> G,Substitution,SNP,55.0,27,148853,148853
+FLO1 CDS,N2,196,C -> T,None,SNP (transition),72.0,23,203677,203677
+FLO1 CDS,N3,187,C -> T,None,SNP (transition),81.3,22,203677,203677
+FLO1 CDS,N1,169,C -> T,None,SNP (transition),61.8,24,203677,203677
+FLO1 CDS,N2,195,TG -> AA,Substitution,Substitution,68.2,22,203679,203680
+FLO1 CDS,N3,186,TG -> AA,Substitution,Substitution,76.6,21,203679,203680
+FLO1 CDS,N1,168,TG -> AA,Substitution,Substitution,59.7,23,203679,203680
+FLO1 CDS,N2,194,ATC -> GTT,Substitution,Substitution,57.9,22,203696,203698
+FLO1 CDS,N3,185,ATC -> GTT,Substitution,Substitution,56.7,20,203696,203698
+FLO1 CDS,N2,193,G -> A,Substitution,SNP (transition),57.8,24,203705,203705
+FLO1 CDS,N3,184,G -> A,Substitution,SNP (transition),71.7,20,203705,203705
+FLO1 CDS,N3,183,A -> T,None,SNP (transversion),62.7,18,203713,203713
+FLO1 CDS,N2,192,A -> T,None,SNP (transversion),50.4,23,203713,203713
+FLO1 CDS,N3,182,A -> T,None,SNP (transversion),57.8,20,203719,203719
+FLO1 CDS,N3,181,C -> G,Substitution,SNP (transversion),55.4,18,203721,203721
+FLO1 CDS,N3,180,A -> G,Substitution,SNP (transition),53.0,17,203726,203726
+FLO1 CDS,N2,191,C -> T,None,SNP (transition),55.3,25,203977,203977
+FLO1 CDS,N1,167,C -> T,None,SNP (transition),53.9,24,203977,203977
+FLO1 CDS,N3,179,C -> T,None,SNP (transition),56.3,25,203977,203977
+FLO1 CDS,N2,190,A -> T,None,SNP (transversion),53.9,27,203986,203986
+FLO1 CDS,N3,178,A -> T,None,SNP (transversion),52.2,26,203986,203986
+FLO1 CDS,N1,166,A -> T,None,SNP (transversion),50.7,26,203986,203986
+FLO1 CDS,N1,165,C -> A,None,SNP (transversion),73.1,23,204388,204388
+FLO1 CDS,N2,189,C -> A,None,SNP (transversion),72.7,23,204388,204388
+FLO1 CDS,N3,177,C -> A,None,SNP (transversion),72.4,23,204388,204388
+FLO1 CDS,N1,164,C -> A,None,SNP (transversion),64.0,20,204394,204394
+FLO1 CDS,N2,188,C -> A,None,SNP (transversion),76.2,23,204394,204394
+FLO1 CDS,N3,176,C -> A,None,SNP (transversion),80.8,20,204394,204394
+FLO1 CDS,N2,187,A -> C,Substitution,SNP (transversion),95.2,20,204396,204396
+FLO1 CDS,N3,175,A -> C,Substitution,SNP (transversion),88.5,21,204396,204396
+FLO1 CDS,N1,163,A -> C,Substitution,SNP (transversion),91.7,21,204396,204396
+FLO1 CDS,N1,162,CAY -> GCT,Substitution,Substitution,82.6,20,204398,204400
+FLO1 CDS,N2,186,CAY -> GCT,Substitution,Substitution,70.0,22,204398,204400
+FLO1 CDS,N3,174,CAY -> GCT,Substitution,Substitution,69.6,22,204398,204400
+FLO1 CDS,N3,173,K -> G,Substitution,SNP,72.7,24,204402,204402
+FLO1 CDS,N1,161,K -> G,Substitution,SNP,75.0,21,204402,204402
+FLO1 CDS,N2,185,K -> G,Substitution,SNP,66.7,25,204402,204402
+FLO1 CDS,N2,184,C -> A,Substitution,SNP (transversion),66.7,21,204404,204404
+FLO1 CDS,N1,160,C -> A,Substitution,SNP (transversion),73.7,19,204404,204404
+FLO1 CDS,N3,172,C -> A,Substitution,SNP (transversion),81.0,21,204404,204404
+FLO1 CDS,N3,171,CH -> AT,Substitution,Substitution,84.2,21,204407,204408
+FLO1 CDS,N2,183,CH -> AT,Substitution,Substitution,50.0,22,204407,204408
+FLO1 CDS,N1,159,CH -> AT,Substitution,Substitution,73.7,18,204407,204408
+FLO1 CDS,N2,182,CAY -> ATA,Substitution,Substitution,56.3,20,204410,204412
+FLO1 CDS,N1,158,CA -> AT,Substitution,Substitution,55.6,18,204410,204411
+FLO1 CDS,N3,170,CAY -> ATA,Substitution,Substitution,53.3,23,204410,204412
+FLO1 CDS,N2,181,AM -> CC,Substitution,Substitution,50.0,19,204413,204414
+FLO1 CDS,N3,169,M -> C,Substitution,SNP,62.5,25,204414,204414
+FLO1 CDS,N2,180,MMY -> TCA,Substitution,Substitution,55.0,19,204416,204418
+FLO1 CDS,N3,168,MM -> AC,Substitution,Substitution,50.0,23,204416,204417
+FLO1 CDS,N1,157,C -> A,None,SNP (transversion),52.4,21,204419,204419
+FLO1 CDS,N3,167,M -> G,Substitution,SNP,56.0,21,204420,204420
+FLO1 CDS,N3,166,TAR -> ACC,Extension,Substitution,68.6,23,204422,204424
+FLO1 CDS,N1,156,RMS -> CCA,Extension,Substitution,75.0,18,204424,204426
+FLO1 CDS,N3,165,MSA -> AAC,Substitution,Substitution,69.2,25,204425,204427
+FLO1 CDS,N2,179,BHB -> ACG,Substitution,Substitution,78.3,16,204428,204430
+FLO1 CDS,N1,155,BHB -> CGGT,Frame Shift,Insertion,52.9,19,204428,204430
+FLO1 CDS,N2,178,ACM -> GTC,Substitution,Substitution,82.7,21,204431,204433
+FLO1 CDS,N1,154,ACM -> CAA,Substitution,Substitution,70.5,19,204431,204433
+FLO1 CDS,N3,164,ACM -> CAA,Substitution,Substitution,72.5,26,204431,204433
+FLO1 CDS,N2,177,CGA -> AAC,Substitution,Substitution,83.1,21,204434,204436
+FLO1 CDS,N3,163,G -> C,Substitution,SNP (transversion),88.1,25,204435,204435
+FLO1 CDS,N1,153,G -> C,Substitution,SNP (transversion),89.6,18,204435,204435
+FLO1 CDS,N2,176,GWG -> ACT,Substitution,Substitution,84.6,22,204439,204441
+FLO1 CDS,N1,152,TSSCCA -> GAAACC,Substitution,Substitution,61.3,21,204443,204448
+FLO1 CDS,N3,162,TSSCCA -> GAAACC,Substitution,Substitution,58.8,26,204443,204448
+FLO1 CDS,N1,151,CAC -> GTT,Substitution,Substitution,53.3,23,204449,204451
+FLO1 CDS,N3,161,CA -> GT,Substitution,Substitution,84.6,27,204449,204450
+FLO1 CDS,N2,175,CG -> TT,Substitution,Substitution,88.0,23,204453,204454
+FLO1 CDS,N1,150,CG -> TT,Substitution,Substitution,88.0,23,204453,204454
+FLO1 CDS,N3,160,CG -> TT,Substitution,Substitution,84.3,26,204453,204454
+FLO1 CDS,N3,159,A -> T,Substitution,SNP (transversion),94.3,26,204456,204456
+FLO1 CDS,N2,174,A -> T,Substitution,SNP (transversion),90.1,23,204456,204456
+FLO1 CDS,N1,149,A -> T,Substitution,SNP (transversion),92.0,24,204456,204456
+FLO1 CDS,N3,158,WA -> TT,Substitution,Substitution,61.7,27,204459,204460
+FLO1 CDS,N2,173,WA -> TT,Substitution,Substitution,65.4,24,204459,204460
+FLO1 CDS,N1,148,WA -> TT,Substitution,Substitution,65.3,25,204459,204460
+FLO1 CDS,N2,172,G -> A,None,SNP (transition),61.2,20,204529,204529
+FLO1 CDS,N1,147,G -> A,None,SNP (transition),59.4,21,204529,204529
+FLO1 CDS,N2,171,A -> G,None,SNP (transition),55.4,21,204538,204538
+FLO1 CDS,N1,146,A -> G,None,SNP (transition),56.2,21,204538,204538
+gag-pol fusion protein CDS,N2,8,T -> C,None,SNP (transition),82.2,16,259334,259334
+gag protein CDS,N2,9,T -> C,None,SNP (transition),82.2,16,259334,259334
+gag protein CDS,N1,11,T -> C,None,SNP (transition),93.6,15,259334,259334
+gag-pol fusion protein CDS,N1,10,T -> C,None,SNP (transition),93.6,15,259334,259334
+gag-pol fusion protein CDS,N1,8,A -> T,None,SNP (transversion),93.6,14,259337,259337
+gag protein CDS,N2,7,A -> T,None,SNP (transversion),80.0,15,259337,259337
+gag-pol fusion protein CDS,N2,6,A -> T,None,SNP (transversion),80.0,15,259337,259337
+gag protein CDS,N1,9,A -> T,None,SNP (transversion),93.6,14,259337,259337
+gag protein CDS,N2,5,T -> A,None,SNP (transversion),82.2,16,259340,259340
+gag-pol fusion protein CDS,N2,4,T -> A,None,SNP (transversion),82.2,16,259340,259340
+gag-pol fusion protein CDS,N1,6,T -> A,None,SNP (transversion),92.2,14,259340,259340
+gag protein CDS,N1,7,T -> A,None,SNP (transversion),92.2,14,259340,259340
+gag-pol fusion protein CDS,N1,5,C -> A,Substitution,SNP (transversion),99.0,3,261981,261981
+gag-pol fusion protein CDS,N3,5,T -> C,None,SNP (transition),53.8,17,264289,264289
+QRI7 CDS,N1,14,(T)24 -> (T)23,Extension,Deletion (tandem repeat),97.0,8,273646,273646
+GIS3 CDS,N3,41,G -> A,Substitution,SNP (transition),58.7,24,327656,327656
+HOG1 CDS,N1,37,G -> A,Substitution,SNP (transition),56.1,31,372409,372409
+FLO11 CDS,N3,20,A -> G,Substitution,SNP (transition),57.1,17,391179,391179
+FLO11 CDS,N3,19,G -> A,None,SNP (transition),54.7,20,391472,391472
+FLO11 CDS,N2,6,A -> G,None,SNP (transition),52.9,11,391679,391679
+FLO11 CDS,N2,5,T -> G,None,SNP (transversion),60.3,14,391844,391844
+FLO11 CDS,N1,4,G -> T,None,SNP (transversion),54.0,21,392096,392096
+FLO11 CDS,N3,18,A -> T,None,SNP (transversion),52.6,20,392108,392108
+FLO11 CDS,N3,17,A -> G,Substitution,SNP (transition),56.3,13,392271,392271
+FLO11 CDS,N3,16,C -> G,Substitution,SNP (transversion),65.8,11,392286,392286
+FLO11 CDS,N3,15,T -> G,Substitution,SNP (transversion),53.3,12,392289,392289
+FLO11 CDS,N3,14,A -> G,None,SNP (transition),60.3,13,392294,392294
+FLO11 CDS,N3,13,C -> G,Substitution,SNP (transversion),61.4,11,392301,392301
+FLO11 CDS,N3,12,T -> G,None,SNP (transversion),50.7,11,392312,392312
+FLO11 CDS,N3,11,A -> G,Substitution,SNP (transition),71.1,13,392316,392316
+FLO11 CDS,N3,10,A -> T,Substitution,SNP (transversion),60.5,14,392329,392329
+FLO11 CDS,N3,9,T -> G,Substitution,SNP (transversion),67.5,13,392334,392334
+FLO11 CDS,N1,3,T -> G,Substitution,SNP (transversion),50.0,13,392334,392334
+FLO11 CDS,N3,8,A -> G,Substitution,SNP (transition),62.7,13,392352,392352
+FLO11 CDS,N1,2,A -> G,Substitution,SNP (transition),53.1,11,392352,392352
+FLO11 CDS,N3,7,C -> T,Substitution,SNP (transition),53.9,14,392359,392359
+FLO11 CDS,N3,6,A -> T,Substitution,SNP (transversion),50.6,15,392365,392365
+FLO11 CDS,N3,5,C -> G,Substitution,SNP (transversion),67.1,12,392367,392367
+FLO11 CDS,N1,1,C -> G,Substitution,SNP (transversion),52.5,13,392367,392367
+FLO11 CDS,N2,4,G -> T,Substitution,SNP (transversion),54.2,22,392370,392370
+FLO11 CDS,N3,4,A -> T,None,SNP (transversion),51.9,11,392378,392378
+FLO11 CDS,N3,3,C -> G,Substitution,SNP (transversion),66.2,13,392382,392382
+FLO11 CDS,N1,0,C -> G,Substitution,SNP (transversion),58.7,13,392382,392382
+FLO11 CDS,N2,3,A -> G,Substitution,SNP (transition),55.6,13,392388,392388
+FLO11 CDS,N3,2,A -> G,Substitution,SNP (transition),51.9,13,392388,392388
+FLO11 CDS,N3,1,C -> G,Substitution,SNP (transversion),57.0,13,392403,392403
+FLO11 CDS,N3,0,C -> G,Substitution,SNP (transversion),62.7,13,392418,392418
+hypothetical protein CDS,N3,39,AAGTTCCAATATGCGTTGGCC -> GTAAGATACCGATTCCATTTT,Substitution,Substitution,62.5,26,475689,475709
+hypothetical protein CDS,N2,53,ACA -> TTT,Substitution,Substitution,52.0,24,475715,475717
+hypothetical protein CDS,N3,38,ACAGCTAGG -> TTTCTATAC,Substitution,Substitution,87.5,30,475715,475723
+hypothetical protein CDS,N2,52,CTAG -> TTTA,Substitution,Substitution,55.6,28,475719,475722
+hypothetical protein CDS,N3,37,AG -> CT,Substitution,Substitution,100.0,31,475725,475726
+hypothetical protein CDS,N2,51,A -> C,Substitution,SNP (transversion),75.0,23,475725,475725
+hypothetical protein CDS,N3,36,AACTC -> GAG,Frame Shift,Deletion,88.9,21,475728,475732
+hypothetical protein CDS,N2,50,C -> G,Substitution,SNP (transversion),79.3,24,475730,475730
+hypothetical protein CDS,N3,35,CGC -> AGA,None,Substitution,100.0,33,475734,475736
+hypothetical protein CDS,N2,49,CGC -> AGA,None,Substitution,76.7,27,475734,475736
+hypothetical protein CDS,N3,34,G -> C,Substitution,SNP (transversion),90.9,33,475738,475738
+hypothetical protein CDS,N2,48,G -> C,Substitution,SNP (transversion),79.3,28,475738,475738
+hypothetical protein CDS,N2,47,GGCGTC -> TCTAGT,Substitution,Substitution,88.0,28,475740,475745
+hypothetical protein CDS,N3,33,GGCGTC -> TCTAGT,Substitution,Substitution,91.7,32,475740,475745
+hypothetical protein CDS,N2,46,A -> C,Substitution,SNP (transversion),100.0,24,475747,475747
+hypothetical protein CDS,N3,32,A -> C,Substitution,SNP (transversion),100.0,32,475747,475747
+hypothetical protein CDS,N2,45,AAAC -> TACA,Substitution,Substitution,100.0,28,475749,475752
+hypothetical protein CDS,N3,31,AAAC -> TACA,Substitution,Substitution,100.0,33,475749,475752
+hypothetical protein CDS,N2,44,AAGTAAA -> TTTATAG,Truncation,Substitution,92.3,27,475757,475763
+hypothetical protein CDS,N3,30,AAGTAAA -> TTTATAG,Truncation,Substitution,100.0,29,475757,475763
+hypothetical protein CDS,N2,43,ACCACTGGCTTCC -> TTTGACCAACAAT,Truncation,Substitution,84.4,27,475765,475777
+hypothetical protein CDS,N3,29,ACCACTGGCTTCC -> TTTGACCAACAAT,Truncation,Substitution,76.5,29,475765,475777
+hypothetical protein CDS,N2,42,A -> C,Substitution,SNP (transversion),82.9,23,475783,475783
+hypothetical protein CDS,N3,28,A -> C,Substitution,SNP (transversion),94.7,24,475783,475783
+hypothetical protein CDS,N2,41,TATTTC -> CAAAAA,Substitution,Substitution,88.6,27,475785,475790
+hypothetical protein CDS,N3,27,TATTTC -> CAAAAA,Substitution,Substitution,89.5,29,475785,475790
+hypothetical protein CDS,N3,26,CTG -> T,Frame Shift,Deletion,100.0,20,475792,475794
+hypothetical protein CDS,N2,40,CTG -> T,Frame Shift,Deletion,97.2,18,475792,475794
+hypothetical protein CDS,N2,39,TCTCA -> AAATT,Substitution,Substitution,86.8,28,475798,475802
+hypothetical protein CDS,N3,25,TCTCA -> AAATT,Substitution,Substitution,81.0,28,475798,475802
+hypothetical protein CDS,N3,24,M -> A,Substitution,SNP,95.2,34,475807,475807
+hypothetical protein CDS,N2,38,M -> A,Substitution,SNP,100.0,30,475807,475807
+hypothetical protein CDS,N3,23,MTR -> ACA,Substitution,Substitution,100.0,29,482009,482011
+hypothetical protein CDS,N2,37,MTRYA -> ACACC,Substitution,Substitution,94.1,31,482009,482013
+hypothetical protein CDS,N2,36,A -> C,Truncation,SNP (transversion),87.5,30,482017,482017
+hypothetical protein CDS,N3,22,A -> C,Truncation,SNP (transversion),100.0,37,482017,482017
+hypothetical protein CDS,N3,21,GCTGG -> AACAC,Substitution,Substitution,100.0,34,482019,482023
+hypothetical protein CDS,N2,35,GCTGGT -> AACAC,Frame Shift,Deletion,83.3,27,482019,482024
+hypothetical protein CDS,N3,20,A -> G,Substitution,SNP (transition),66.7,34,482026,482026
+hypothetical protein CDS,N2,34,AGC -> TGG,Substitution,Substitution,100.0,32,482028,482030
+hypothetical protein CDS,N2,33,T -> A,Substitution,SNP (transversion),100.0,29,482032,482032
+hypothetical protein CDS,N2,32,ACCGAG -> CTTTTC,Substitution,Substitution,100.0,33,482034,482039
+hypothetical protein CDS,N2,31,A -> C,Substitution,SNP (transversion),100.0,36,482041,482041
+hypothetical protein CDS,N2,30,TGT -> AGA,Substitution,Substitution,100.0,34,482043,482045
+hypothetical protein CDS,N2,29,GT -> CA,Substitution,Substitution,100.0,35,482047,482048
+hypothetical protein CDS,N2,27,GGT -> CAA,Substitution,Substitution,62.5,30,482050,482052
+hypothetical protein CDS,N2,28,GGTG -> CAAT,Substitution,Substitution,60.0,30,482050,482053
+hypothetical protein CDS,N2,26,T -> C,None,SNP (transition),66.7,34,482058,482058
+COG7 CDS,N3,173,TGA -> CGG,Substitution,Substitution,96.2,30,489680,489682
+COG7 CDS,N1,227,TGA -> CGG,Substitution,Substitution,96.5,31,489680,489682
+COG7 CDS,N2,265,TGA -> CGG,Substitution,Substitution,95.6,31,489680,489682
+COG7 CDS,N1,226,A -> G,Substitution,SNP (transition),98.6,32,489684,489684
+COG7 CDS,N3,172,A -> G,Substitution,SNP (transition),97.5,30,489684,489684
+COG7 CDS,N2,264,A -> G,Substitution,SNP (transition),100.0,30,489684,489684
+COG7 CDS,N3,171,ATAC -> GGTCT,Frame Shift,Insertion,96.3,30,489687,489690
+COG7 CDS,N2,263,ATAC -> GGTCT,Frame Shift,Insertion,89.6,30,489687,489690
+COG7 CDS,N1,225,ATAC -> GGTCT,Frame Shift,Insertion,95.7,31,489687,489690
+COG7 CDS,N1,224,ATC -> GTA,Substitution,Substitution,99.3,33,489692,489694
+COG7 CDS,N3,170,ATC -> GTA,Substitution,Substitution,98.8,33,489692,489694
+COG7 CDS,N2,262,ATC -> GTA,Substitution,Substitution,96.5,32,489692,489694
+COG7 CDS,N2,261,C -> G,Substitution,SNP (transversion),96.6,29,489697,489697
+COG7 CDS,N1,223,C -> G,Substitution,SNP (transversion),98.6,32,489697,489697
+COG7 CDS,N3,169,C -> G,Substitution,SNP (transversion),95.0,31,489697,489697
+COG7 CDS,N2,260,ATATT -> CCCGA,Substitution,Substitution,88.8,30,489699,489703
+COG7 CDS,N3,168,ATATT -> CCCGA,Substitution,Substitution,82.9,30,489699,489703
+COG7 CDS,N1,222,ATATT -> CCCGA,Substitution,Substitution,91.4,31,489699,489703
+COG7 CDS,N1,221,GG -> CA,Substitution,Substitution,97.8,33,489707,489708
+COG7 CDS,N3,167,GG -> CA,Substitution,Substitution,98.8,32,489707,489708
+COG7 CDS,N2,259,GG -> CA,Substitution,Substitution,97.4,33,489707,489708
+COG7 CDS,N2,258,TG -> GA,Substitution,Substitution,99.1,31,489710,489711
+COG7 CDS,N1,220,TG -> GA,Substitution,Substitution,95.5,33,489710,489711
+COG7 CDS,N3,166,TG -> GA,Substitution,Substitution,95.2,31,489710,489711
+COG7 CDS,N1,219,TA -> AT,Substitution,Substitution,96.3,32,489713,489714
+COG7 CDS,N2,257,TA -> AT,Substitution,Substitution,95.8,31,489713,489714
+COG7 CDS,N3,165,TA -> AT,Substitution,Substitution,93.9,31,489713,489714
+COG7 CDS,N2,256,ATA -> TCG,Substitution,Substitution,92.3,32,489716,489718
+COG7 CDS,N1,218,ATA -> TCG,Substitution,Substitution,96.3,32,489716,489718
+COG7 CDS,N3,164,ATA -> TCG,Substitution,Substitution,97.6,33,489716,489718
+COG7 CDS,N2,255,CTTTG -> TGAAT,Substitution,Substitution,92.3,30,489720,489724
+COG7 CDS,N1,217,CTTTG -> TGAAT,Substitution,Substitution,91.2,31,489720,489724
+COG7 CDS,N3,163,CTTTG -> TGAAT,Substitution,Substitution,94.0,31,489720,489724
+COG7 CDS,N1,216,GCTTT -> CGAGC,Substitution,Substitution,96.4,32,489726,489730
+COG7 CDS,N2,254,GCTTT -> CGAGC,Substitution,Substitution,93.3,31,489726,489730
+COG7 CDS,N3,162,GCTTT -> CGAGC,Substitution,Substitution,91.5,30,489726,489730
+COG7 CDS,N1,215,GA -> CG,Substitution,Substitution,98.6,33,489732,489733
+COG7 CDS,N3,161,GA -> CG,Substitution,Substitution,92.2,31,489732,489733
+COG7 CDS,N2,253,GA -> CG,Substitution,Substitution,98.3,32,489732,489733
+COG7 CDS,N1,214,ATGCT -> CGACA,Substitution,Substitution,92.4,33,489738,489742
+COG7 CDS,N2,252,ATGCT -> CGACA,Substitution,Substitution,89.9,31,489738,489742
+COG7 CDS,N3,160,ATGCT -> CGACA,Substitution,Substitution,97.4,31,489738,489742
+COG7 CDS,N2,251,CCGAAAA -> GGATGGC,Substitution,Substitution,91.5,30,489745,489751
+COG7 CDS,N1,213,CCGAAAA -> GGATGGC,Substitution,Substitution,86.2,31,489745,489751
+COG7 CDS,N3,159,CCGA -> GGAT,Substitution,Substitution,88.6,31,489745,489748
+COG7 CDS,N3,158,AAA -> GGC,Substitution,Substitution,95.0,29,489749,489751
+COG7 CDS,N2,250,TT -> GC,Substitution,Substitution,96.7,30,489753,489754
+COG7 CDS,N1,212,TT -> GC,Substitution,Substitution,96.6,30,489753,489754
+COG7 CDS,N3,157,TT -> GC,Substitution,Substitution,95.1,29,489753,489754
+COG7 CDS,N2,249,C -> T,Substitution,SNP (transition),95.9,28,489756,489756
+COG7 CDS,N3,156,C -> T,Substitution,SNP (transition),93.8,30,489756,489756
+COG7 CDS,N1,211,C -> T,Substitution,SNP (transition),98.0,30,489756,489756
+COG7 CDS,N1,210,TAC -> GTA,Substitution,Substitution,95.3,33,489759,489761
+COG7 CDS,N3,155,TAC -> GTA,Substitution,Substitution,91.3,32,489759,489761
+COG7 CDS,N2,248,TAC -> GTA,Substitution,Substitution,95.9,32,489759,489761
+COG7 CDS,N3,154,AGCAAA -> GAATCG,Substitution,Substitution,85.4,30,489764,489769
+COG7 CDS,N1,209,AGCAAAGA -> GAATCGAC,Substitution,Substitution,89.9,32,489764,489771
+COG7 CDS,N2,247,AGCAAAGA -> GAATCGAC,Substitution,Substitution,87.8,30,489764,489771
+COG7 CDS,N3,153,GA -> AC,Substitution,Substitution,96.2,32,489770,489771
+COG7 CDS,N1,208,CTTATC -> GCAGTA,Substitution,Substitution,96.5,33,489773,489778
+COG7 CDS,N2,246,CTTATC -> GCAGTA,Substitution,Substitution,93.5,31,489773,489778
+COG7 CDS,N3,152,CTTATC -> GCAGTA,Substitution,Substitution,90.0,32,489773,489778
+COG7 CDS,N3,151,GCCTTTAA -> CGACCAGC,Substitution,Substitution,85.5,31,489782,489789
+COG7 CDS,N2,245,GCCTTTAA -> CGACCAGC,Substitution,Substitution,89.0,30,489782,489789
+COG7 CDS,N1,207,GCCTTTAA -> CGACCAGC,Substitution,Substitution,92.4,33,489782,489789
+COG7 CDS,N3,150,CAG -> TTC,Substitution,Substitution,94.0,30,489791,489793
+COG7 CDS,N1,206,CAG -> TTC,Substitution,Substitution,95.1,32,489791,489793
+COG7 CDS,N2,244,CAG -> TTC,Substitution,Substitution,92.5,29,489791,489793
+COG7 CDS,N3,149,TTCAG -> ACGAT,Substitution,Substitution,93.9,32,489798,489802
+COG7 CDS,N1,205,TTCAG -> ACGAT,Substitution,Substitution,93.7,33,489798,489802
+COG7 CDS,N2,243,TTCAG -> ACGAT,Substitution,Substitution,97.5,32,489798,489802
+COG7 CDS,N3,148,TCAGA -> GACGC,Substitution,Substitution,95.2,31,489804,489808
+COG7 CDS,N1,204,TCAGA -> GACGC,Substitution,Substitution,94.3,33,489804,489808
+COG7 CDS,N2,242,TCAGA -> GACGC,Substitution,Substitution,93.2,31,489804,489808
+COG7 CDS,N3,147,A -> C,Substitution,SNP (transversion),100.0,30,489810,489810
+COG7 CDS,N2,241,A -> C,Substitution,SNP (transversion),96.5,29,489810,489810
+COG7 CDS,N1,203,A -> C,Substitution,SNP (transversion),99.3,31,489810,489810
+COG7 CDS,N1,202,TG -> AT,Substitution,Substitution,97.8,33,489812,489813
+COG7 CDS,N2,240,TG -> AT,Substitution,Substitution,94.0,32,489812,489813
+COG7 CDS,N3,146,TG -> AT,Substitution,Substitution,100.0,33,489812,489813
+COG7 CDS,N2,239,ATCAA -> TTACT,Truncation,Substitution,94.1,31,489815,489819
+COG7 CDS,N3,145,ATCAA -> TTACT,Truncation,Substitution,90.0,32,489815,489819
+COG7 CDS,N1,201,ATCAA -> TTACT,Truncation,Substitution,94.8,33,489815,489819
+COG7 CDS,N2,238,CCCAATCA -> GCGCACTT,Truncation,Substitution,92.8,31,489824,489831
+COG7 CDS,N1,200,CCCAATCA -> GCGCACTT,Truncation,Substitution,90.8,33,489824,489831
+COG7 CDS,N3,144,CCCAATCA -> GCGCACTT,Truncation,Substitution,87.7,30,489824,489831
+COG7 CDS,N1,199,TCCTTGT -> CTTCGCA,Substitution,Substitution,89.8,32,489834,489840
+COG7 CDS,N3,143,TCCTTGT -> CTTCGCA,Substitution,Substitution,86.7,30,489834,489840
+COG7 CDS,N2,237,TCCTTGT -> CTTCGCA,Substitution,Substitution,91.6,31,489834,489840
+COG7 CDS,N1,198,TGTTT -> CTGGG,Substitution,Substitution,93.4,31,489842,489846
+COG7 CDS,N2,236,TGTTT -> CTGGG,Substitution,Substitution,94.3,31,489842,489846
+COG7 CDS,N3,142,TGTTT -> CTGGG,Substitution,Substitution,92.9,30,489842,489846
+COG7 CDS,N3,141,TC -> GA,Substitution,Substitution,97.6,31,489849,489850
+COG7 CDS,N1,197,TC -> GA,Substitution,Substitution,99.2,32,489849,489850
+COG7 CDS,N2,235,TC -> GA,Substitution,Substitution,98.1,32,489849,489850
+COG7 CDS,N1,196,TTAGC -> GATGT,Substitution,Substitution,94.9,31,489852,489856
+COG7 CDS,N3,140,TTAGC -> GATGT,Substitution,Substitution,90.2,31,489852,489856
+COG7 CDS,N2,234,TTAGC -> GATGT,Substitution,Substitution,93.3,32,489852,489856
+COG7 CDS,N1,195,TC -> GA,Substitution,Substitution,93.1,33,489858,489859
+COG7 CDS,N2,233,TC -> GA,Substitution,Substitution,97.1,31,489858,489859
+COG7 CDS,N3,139,TC -> GA,Substitution,Substitution,95.1,31,489858,489859
+COG7 CDS,N3,138,TTATC -> GCGAG,Substitution,Substitution,87.7,31,489861,489865
+COG7 CDS,N2,232,TTATC -> GCGAG,Substitution,Substitution,87.0,31,489861,489865
+COG7 CDS,N1,194,TTATC -> GCGAG,Substitution,Substitution,94.7,31,489861,489865
+COG7 CDS,N3,137,TCGCAGAGCT -> AAAATATAAA,Substitution,Substitution,96.0,33,489868,489877
+COG7 CDS,N2,231,TCGCAGAGCT -> AAAATATAAA,Substitution,Substitution,90.8,32,489868,489877
+COG7 CDS,N1,193,TCGCAGAGCT -> AAAATATAAA,Substitution,Substitution,86.8,33,489868,489877
+COG7 CDS,N1,192,A -> C,Truncation,SNP (transversion),96.1,32,489879,489879
+COG7 CDS,N2,230,A -> C,Truncation,SNP (transversion),95.7,32,489879,489879
+COG7 CDS,N3,136,A -> C,Truncation,SNP (transversion),98.6,32,489879,489879
+COG7 CDS,N1,191,AGA -> CGC,Substitution,Substitution,97.0,33,489881,489883
+COG7 CDS,N2,229,AGA -> CGC,Substitution,Substitution,96.7,32,489881,489883
+COG7 CDS,N3,135,AGA -> CGC,Substitution,Substitution,98.6,31,489881,489883
+COG7 CDS,N1,190,TCATC -> AACATTT,Frame Shift,Insertion,91.8,31,489885,489889
+COG7 CDS,N2,228,TCATC -> AACATTT,Frame Shift,Insertion,85.7,31,489885,489889
+COG7 CDS,N3,134,TCATC -> AACATTT,Frame Shift,Insertion,87.3,31,489885,489889
+COG7 CDS,N1,189,GT -> AA,Substitution,Substitution,95.9,32,489894,489895
+COG7 CDS,N3,133,GT -> AA,Substitution,Substitution,98.5,32,489894,489895
+COG7 CDS,N2,227,GT -> AA,Substitution,Substitution,96.7,32,489894,489895
+COG7 CDS,N3,132,TCCTCT -> ATAG,Frame Shift,Deletion,93.9,26,489897,489902
+COG7 CDS,N1,188,TCCTCT -> ATAG,Frame Shift,Deletion,90.9,26,489897,489902
+COG7 CDS,N2,226,TCCTCT -> ATAG,Frame Shift,Deletion,89.9,26,489897,489902
+COG7 CDS,N1,187,TGC -> CAA,Substitution,Substitution,88.8,33,489905,489907
+COG7 CDS,N3,131,TGCTTT -> CAACTA,Truncation,Substitution,93.8,32,489905,489910
+COG7 CDS,N2,225,TGCTTT -> CAACTA,Truncation,Substitution,82.8,33,489905,489910
+COG7 CDS,N1,186,TTT -> CTA,Truncation,Substitution,86.7,33,489908,489910
+COG7 CDS,N2,224,GATGTTCT -> ATAAAAAA,Substitution,Substitution,80.0,32,489915,489922
+COG7 CDS,N1,185,GA -> A,Frame Shift,Deletion,88.8,24,489915,489916
+COG7 CDS,N3,130,-G,Frame Shift,Deletion,100.0,16,489915,489915
+COG7 CDS,N3,129,GTTCT -> AAAAA,Substitution,Substitution,96.7,32,489918,489922
+COG7 CDS,N1,184,GT -> AA,Substitution,Substitution,83.5,32,489918,489919
+COG7 CDS,N1,183,TCT -> AAA,Substitution,Substitution,81.6,34,489920,489922
+COG7 CDS,N2,223,AA -> CT,Substitution,Substitution,88.0,32,489924,489925
+COG7 CDS,N1,182,A -> C,Substitution,SNP (transversion),96.8,33,489925,489925
+COG7 CDS,N3,128,AATCTGTT -> CTATACAA,Substitution,Substitution,89.8,34,489925,489932
+COG7 CDS,N1,181,ATCTGTT -> TATACAA,Substitution,Substitution,77.0,34,489926,489932
+COG7 CDS,N2,222,-C,Frame Shift,Deletion,100.0,15,489928,489928
+COG7 CDS,N2,221,TGT -> ACA,Substitution,Substitution,79.5,32,489929,489931
+COG7 CDS,N2,220,T -> A,None,SNP (transversion),94.0,31,489932,489932
+COG7 CDS,N1,180,CGA -> GAC,Substitution,Substitution,71.3,34,489935,489937
+COG7 CDS,N3,127,CGA -> GAC,Substitution,Substitution,91.7,32,489935,489937
+COG7 CDS,N2,219,CGA -> GAC,Substitution,Substitution,76.5,32,489935,489937
+COG7 CDS,N3,126,A -> T,Substitution,SNP (transversion),90.0,32,489941,489941
+COG7 CDS,N2,218,A -> T,Substitution,SNP (transversion),73.6,30,489941,489941
+COG7 CDS,N1,179,A -> T,Substitution,SNP (transversion),72.6,30,489941,489941
+COG7 CDS,N3,125,-G,Frame Shift,Deletion,100.0,15,489945,489945
+COG7 CDS,N2,217,-G,Frame Shift,Deletion,100.0,15,489945,489945
+COG7 CDS,N1,178,-G,Frame Shift,Deletion,100.0,15,489945,489945
+COG7 CDS,N1,177,CCCCGTGCT -> GAAAACAAG,Substitution,Substitution,64.6,33,489947,489955
+COG7 CDS,N3,124,CCCCGTGCTGG -> GAAAACAAGAA,Substitution,Substitution,83.3,31,489947,489957
+COG7 CDS,N2,216,CCCCGTGCTGG -> GAAAACAAGAA,Substitution,Substitution,62.4,32,489947,489957
+COG7 CDS,N1,176,GG -> AA,Substitution,Substitution,65.0,32,489956,489957
+COG7 CDS,N1,175,TG -> CT,Substitution,Substitution,62.2,33,489959,489960
+COG7 CDS,N3,123,TG -> CT,Substitution,Substitution,89.7,32,489959,489960
+COG7 CDS,N2,215,TG -> CT,Substitution,Substitution,65.1,33,489959,489960
+COG7 CDS,N2,214,A -> T,Substitution,SNP (transversion),67.1,33,489962,489962
+COG7 CDS,N3,122,A -> T,Substitution,SNP (transversion),91.4,32,489962,489962
+COG7 CDS,N1,174,A -> T,Substitution,SNP (transversion),62.0,32,489962,489962
+COG7 CDS,N3,121,T -> G,Substitution,SNP (transversion),96.5,32,489968,489968
+COG7 CDS,N1,173,T -> G,Substitution,SNP (transversion),100.0,33,489968,489968
+COG7 CDS,N2,213,T -> G,Substitution,SNP (transversion),66.3,31,489968,489968
+COG7 CDS,N1,172,TC -> AG,Substitution,Substitution,58.0,34,489971,489972
+COG7 CDS,N2,212,TC -> AG,Substitution,Substitution,60.7,33,489971,489972
+COG7 CDS,N3,120,TC -> AG,Substitution,Substitution,87.9,32,489971,489972
+COG7 CDS,N1,171,AC -> CT,Substitution,Substitution,54.5,34,489975,489976
+COG7 CDS,N3,119,AC -> CT,Substitution,Substitution,86.2,35,489975,489976
+COG7 CDS,N2,211,ACTG -> CTGA,Substitution,Substitution,60.7,33,489975,489978
+COG7 CDS,N3,118,TG -> GA,Substitution,Substitution,83.9,32,489977,489978
+COG7 CDS,N1,170,TG -> GA,Substitution,Substitution,50.0,34,489977,489978
+COG7 CDS,N3,117,CGA -> TAG,Substitution,Substitution,84.2,33,489980,489982
+COG7 CDS,N1,169,C -> TA,Frame Shift,Insertion,51.9,34,489980,489980
+COG7 CDS,N2,210,C -> TA,Frame Shift,Insertion,61.9,33,489980,489980
+COG7 CDS,N3,116,T -> A,Substitution,SNP (transversion),80.7,33,489985,489985
+COG7 CDS,N2,209,T -> A,Substitution,SNP (transversion),60.2,32,489985,489985
+COG7 CDS,N2,208,T -> C,Substitution,SNP (transition),60.7,34,489987,489987
+COG7 CDS,N3,115,TT -> AC,Substitution,Substitution,78.9,32,489987,489988
+COG7 CDS,N3,114,CGTAACGGTCCT -> TCATCGAGCATC,Truncation,Substitution,77.6,33,489989,490000
+COG7 CDS,N2,207,G -> A,Substitution,SNP (transition),56.5,34,489990,489990
+COG7 CDS,N1,168,T -> G,Substitution,SNP (transversion),51.9,28,489991,489991
+COG7 CDS,N2,206,AAC -> CGAG,Frame Shift,Insertion,52.4,32,489992,489994
+COG7 CDS,N1,167,AC -> GA,Substitution,Substitution,89.5,32,489993,489994
+COG7 CDS,N2,205,GG -> CA,Substitution,Substitution,56.1,32,489995,489996
+COG7 CDS,N1,166,G -> C,Substitution,SNP (transversion),90.5,33,489996,489996
+COG7 CDS,N1,165,C -> T,None,SNP (transition),98.1,32,489998,489998
+COG7 CDS,N2,204,CTAACTTGTTCCAGGTAATATACCACTTTTTCAATTCTCTCCTTAATCAACATTAAACTTTGCAGTTGTTGCCTCACATTGGTATTGCGATTATTTTCGTTATCTAGATCGCTTAGTTTCTCAGTTACATTATGCATTCCTGTTTCTAATGCTCTTACAGCACTTGCCAACGTATCTAAGTAATATTCAAGCTTCGATGATTTTAAGGATTCAGT -> AA,Deletion,Deletion,56.3,15,489999,490213
+COG7 CDS,N3,113,C -> A,Substitution,SNP (transversion),71.2,33,490003,490003
+COG7 CDS,N3,112,TGTT -> GAAA,Substitution,Substitution,69.5,32,490005,490008
+COG7 CDS,N3,111,CAGGTAATATACCACTTTTTCAATTCTCTCCTTAATCAACATTAAACTTTGCAGTTGTTGCCTCACATTGGTATTGCGATTATTTTCGTTATCTAGATCGCTTAGTTTCTCAGTTACATTATGCATTCCTGTTTCTAATGCTCTTACAGCACTTGCCAACGTATCTAAGTAATATTCAAGCTTCGATGATTTTAAGGATTCAGTAGAATACAATGAGGAATC -> TGCAATTTA,Truncation,Deletion,61.4,16,490010,490231
+COG7 CDS,N1,164,AGT -> GCA,Substitution,Substitution,54.9,31,490211,490213
+COG7 CDS,N1,163,AGAATA -> GGTCTG,Substitution,Substitution,52.9,32,490214,490219
+COG7 CDS,N2,203,GA -> TG,Substitution,Substitution,51.2,34,490215,490216
+COG7 CDS,N2,202,T -> A,Substitution,SNP (transversion),51.8,32,490218,490218
+COG7 CDS,N1,162,AT -> GC,None,Substitution,58.3,32,490222,490223
+COG7 CDS,N2,201,AT -> GC,Substitution,Substitution,53.0,31,490229,490230
+COG7 CDS,N1,161,AT -> GC,Substitution,Substitution,62.0,30,490229,490230
+COG7 CDS,N3,110,GTTCTG -> TTCATA,Substitution,Substitution,62.1,35,490232,490237
+COG7 CDS,N1,160,-T,Frame Shift,Deletion,99.1,14,490234,490234
+COG7 CDS,N2,200,C -> T,None,SNP (transition),55.6,28,490235,490235
+COG7 CDS,N1,159,CTG -> AAT,Substitution,Substitution,62.0,29,490235,490237
+COG7 CDS,N2,199,TTCT -> CTTC,Substitution,Substitution,56.0,30,490238,490241
+COG7 CDS,N3,109,TCTGC -> CAGGA,Truncation,Substitution,59.3,32,490239,490243
+COG7 CDS,N1,158,C -> T,Substitution,SNP (transition),67.6,30,490240,490240
+COG7 CDS,N2,198,TT -> GC,Substitution,Substitution,61.0,30,490244,490245
+COG7 CDS,N3,108,C -> A,Truncation,SNP (transversion),60.0,34,490246,490246
+COG7 CDS,N1,157,TTT -> GCGCC,Frame Shift,Insertion,66.7,30,490247,490249
+COG7 CDS,N2,197,TTTGT -> GTGCG,Substitution,Substitution,61.7,31,490247,490251
+COG7 CDS,N3,107,TTGTGAT -> CAATACC,Truncation,Substitution,56.7,31,490248,490254
+COG7 CDS,N1,156,ATA -> CGG,Substitution,Substitution,72.7,31,490253,490255
+COG7 CDS,N2,196,AT -> CC,Substitution,Substitution,62.7,26,490253,490254
+COG7 CDS,N3,106,CC -> TA,Substitution,Substitution,55.0,33,490256,490257
+COG7 CDS,N2,195,CCT -> TCA,Truncation,Substitution,94.0,30,490256,490258
+COG7 CDS,N1,155,TAG -> ATC,Truncation,Substitution,73.5,32,490258,490260
+COG7 CDS,N3,105,AGAA -> TTTT,Substitution,Substitution,56.5,32,490259,490262
+COG7 CDS,N2,194,G -> A,Substitution,SNP (transition),97.6,29,490260,490260
+COG7 CDS,N2,193,AGATGCCCAAGT -> TGTATGGATGCA,Substitution,Substitution,58.0,31,490262,490273
+COG7 CDS,N1,154,G -> A,Substitution,SNP (transition),80.6,29,490263,490263
+COG7 CDS,N3,104,TGC -> AAA,Substitution,Substitution,50.8,30,490265,490267
+COG7 CDS,N1,153,CCCAAG -> TATGGA,Substitution,Substitution,76.8,32,490267,490272
+COG7 CDS,N3,103,C -> G,Substitution,SNP (transversion),98.3,30,490269,490269
+COG7 CDS,N2,192,TC -> AA,Substitution,Substitution,97.6,31,490274,490275
+COG7 CDS,N1,152,TCT -> GCA,Substitution,Substitution,83.2,31,490274,490276
+COG7 CDS,N1,151,TGGTAACG -> AATGATTA,Substitution,Substitution,77.2,32,490277,490284
+COG7 CDS,N2,191,TGG -> GAT,Substitution,Substitution,75.6,31,490277,490279
+COG7 CDS,N3,102,G -> A,Substitution,SNP (transition),51.7,31,490279,490279
+COG7 CDS,N3,101,A -> T,Truncation,SNP (transversion),54.2,29,490281,490281
+COG7 CDS,N2,190,ACGT -> TACA,Substitution,Substitution,74.4,31,490282,490285
+COG7 CDS,N3,100,CGTT -> TACA,Substitution,Substitution,51.7,30,490283,490286
+COG7 CDS,N1,150,TTGAGATA -> ACATGGGG,Substitution,Substitution,75.7,31,490286,490293
+COG7 CDS,N2,189,T -> G,Substitution,SNP (transversion),81.6,28,490287,490287
+COG7 CDS,N3,99,AGA -> GGG,Substitution,Substitution,58.3,28,490289,490291
+COG7 CDS,N2,188,A -> G,None,SNP (transition),80.5,29,490289,490289
+COG7 CDS,N3,98,TAA -> ATG,Substitution,Substitution,58.3,30,490292,490294
+COG7 CDS,N2,187,AA -> GT,Substitution,Substitution,75.0,31,490293,490294
+COG7 CDS,N2,186,TTT -> ATG,Substitution,Substitution,96.6,30,490295,490297
+COG7 CDS,N1,149,T -> G,Substitution,SNP (transversion),92.5,31,490296,490296
+COG7 CDS,N3,97,T -> A,Substitution,SNP (transversion),59.0,31,490296,490296
+COG7 CDS,N2,185,AT -> GG,Substitution,Substitution,84.3,30,490298,490299
+COG7 CDS,N3,96,ATC -> GGG,Substitution,Substitution,59.4,31,490298,490300
+COG7 CDS,N1,148,CCAAATTCCA -> GGGCTAAATG,Substitution,Substitution,80.2,31,490300,490309
+COG7 CDS,N2,184,C -> T,None,SNP (transition),96.6,32,490301,490301
+COG7 CDS,N3,95,A -> T,Truncation,SNP (transversion),65.1,32,490302,490302
+COG7 CDS,N3,94,T -> A,Substitution,SNP (transversion),100.0,29,490305,490305
+COG7 CDS,N2,183,TCCATATGGTGCT -> GTACGGGCGACAG,Substitution,Substitution,75.8,31,490306,490318
+COG7 CDS,N3,93,CC -> GT,Substitution,Substitution,70.3,32,490307,490308
+COG7 CDS,N3,92,TAT -> CGG,Substitution,Substitution,70.3,30,490310,490312
+COG7 CDS,N1,147,T -> C,Substitution,SNP (transition),98.2,32,490312,490312
+COG7 CDS,N3,91,GTGCT -> CGACA,Substitution,Substitution,66.7,32,490314,490318
+COG7 CDS,N1,146,TGCTTTCCA -> GCGACAGTC,Truncation,Substitution,87.4,31,490315,490323
+COG7 CDS,N3,90,T -> G,Substitution,SNP (transversion),98.5,30,490319,490319
+COG7 CDS,N2,182,TC -> CA,Truncation,Substitution,82.4,31,490320,490321
+COG7 CDS,N3,89,CA -> AC,Substitution,Substitution,74.6,31,490322,490323
+COG7 CDS,N2,181,A -> T,Substitution,SNP (transversion),93.3,33,490324,490324
+COG7 CDS,N3,88,CTC -> TCA,Truncation,Substitution,74.6,31,490325,490327
+COG7 CDS,N1,145,TCTT -> ATCA,Substitution,Substitution,89.8,31,490326,490329
+COG7 CDS,N2,180,TCTTTTG -> ATGCCCC,Substitution,Substitution,88.8,30,490326,490332
+COG7 CDS,N3,87,TTTGTAAG -> GCCCCTGA,Substitution,Substitution,69.4,31,490329,490336
+COG7 CDS,N1,144,TGTAAG -> GCCCCT,Substitution,Substitution,91.5,31,490331,490336
+COG7 CDS,N2,179,A -> G,None,SNP (transition),96.7,31,490334,490334
+COG7 CDS,N2,178,GTT -> CTG,Substitution,Substitution,97.8,31,490337,490339
+COG7 CDS,N3,86,T -> C,Substitution,SNP (transition),98.4,31,490338,490338
+COG7 CDS,N1,143,TT -> AG,Substitution,Substitution,88.3,31,490338,490339
+COG7 CDS,N3,85,CTT -> GCG,Substitution,Substitution,92.2,30,490340,490342
+COG7 CDS,N2,177,TTTGTGT -> GCACGTC,Truncation,Substitution,91.5,31,490341,490347
+COG7 CDS,N1,142,TTGTGTAAA -> GCGCACGTC,Truncation,Substitution,88.3,32,490342,490350
+COG7 CDS,N3,84,TGT -> CAC,Substitution,Substitution,84.6,31,490343,490345
+COG7 CDS,N3,83,A -> C,Substitution,SNP (transversion),90.6,31,490348,490348
+COG7 CDS,N2,176,A -> G,Substitution,SNP (transition),97.0,31,490350,490350
+COG7 CDS,N3,82,A -> G,Substitution,SNP (transition),92.1,31,490351,490351
+COG7 CDS,N2,175,ATCCA -> CTGTC,Truncation,Substitution,92.2,31,490352,490356
+COG7 CDS,N3,81,-T,Frame Shift,Deletion,100.0,14,490353,490353
+COG7 CDS,N1,141,TC -> GA,Substitution,Substitution,98.4,31,490353,490354
+COG7 CDS,N3,80,CAA -> TGT,Substitution,Substitution,85.9,32,490355,490357
+COG7 CDS,N1,140,AACCTGGTTAATAGCAA -> TGTCAAGGAGGGTATTC,Truncation,Substitution,79.1,30,490356,490372
+COG7 CDS,N2,174,CCTGGTTA -> AGGAGGGT,Substitution,Substitution,88.6,30,490358,490365
+COG7 CDS,N3,79,CT -> AA,Substitution,Substitution,95.4,30,490359,490360
+COG7 CDS,N3,78,TTAA -> AGGG,Substitution,Substitution,91.2,30,490363,490366
+COG7 CDS,N2,173,AGCAATGAGGATAC -> TCTGGGCCTCCATG,Substitution,Substitution,83.8,29,490368,490381
+COG7 CDS,N3,77,GCAATGAGGATAC -> TTCTGGGCCTCCA,Substitution,Substitution,88.4,29,490369,490381
+COG7 CDS,N1,139,A -> G,Substitution,SNP (transition),95.8,31,490375,490375
+COG7 CDS,N1,138,GA -> CC,Substitution,Substitution,96.5,29,490377,490378
+COG7 CDS,N1,137,A -> C,Substitution,SNP (transversion),98.6,29,490380,490380
+COG7 CDS,N1,136,TGA -> ATG,Substitution,Substitution,94.5,32,490382,490384
+COG7 CDS,N2,172,GAT -> CGC,Substitution,Substitution,95.8,31,490383,490385
+COG7 CDS,N3,76,ATTGCGTTT -> TCGCTGGCC,Substitution,Substitution,84.2,30,490384,490392
+COG7 CDS,N1,135,T -> C,Substitution,SNP (transition),97.3,31,490386,490386
+COG7 CDS,N2,171,CGTTT -> GCCGG,Substitution,Substitution,93.4,30,490388,490392
+COG7 CDS,N1,134,GTTTGAATCTGAT -> TGGCCGGGTGACC,Substitution,Substitution,85.0,30,490389,490401
+COG7 CDS,N3,75,AATCTGATCTTC -> GGTGACCCGGCGG,Frame Shift,Insertion,88.2,30,490394,490405
+COG7 CDS,N2,170,AAT -> TGA,Substitution,Substitution,93.4,32,490394,490396
+COG7 CDS,N2,169,TGAT -> CCGG,Substitution,Substitution,95.8,30,490398,490401
+COG7 CDS,N1,133,TT -> GG,Substitution,Substitution,95.9,30,490403,490404
+COG7 CDS,N2,168,TTC -> GGG,Substitution,Substitution,98.3,31,490403,490405
+COG7 CDS,N2,167,TTTAA -> ACGAG,Substitution,Substitution,90.9,31,490407,490411
+COG7 CDS,N3,74,TTTA -> GACG,Substitution,Substitution,91.1,30,490407,490410
+COG7 CDS,N1,132,TTTAA -> GGGAC,Substitution,Substitution,95.1,27,490407,490411
+COG7 CDS,N1,131,GCATTTGA -> AGGCAAGC,Substitution,Substitution,87.4,30,490413,490420
+COG7 CDS,N2,166,GC -> CA,Substitution,Substitution,94.3,30,490413,490414
+COG7 CDS,N2,165,TT -> GC,Substitution,Substitution,96.7,32,490416,490417
+COG7 CDS,N3,73,TTTG -> AGCT,Truncation,Substitution,88.8,30,490416,490419
+COG7 CDS,N2,164,G -> A,Substitution,SNP (transition),96.7,28,490419,490419
+COG7 CDS,N2,163,TA -> AC,Substitution,Substitution,95.1,30,490421,490422
+COG7 CDS,N3,72,TAAGAG -> AACAGA,Substitution,Substitution,87.8,30,490421,490426
+COG7 CDS,N1,130,GAGT -> ACAG,Substitution,Substitution,93.7,31,490424,490427
+COG7 CDS,N2,162,-G,Frame Shift,Deletion,100.0,12,490426,490426
+COG7 CDS,N3,71,A -> C,Substitution,SNP (transversion),100.0,30,490428,490428
+COG7 CDS,N2,161,A -> C,Substitution,SNP (transversion),98.4,31,490428,490428
+COG7 CDS,N1,129,ATCAA -> CTGGCG,Frame Shift,Insertion,93.0,30,490430,490434
+COG7 CDS,N3,70,AT -> GG,Substitution,Substitution,97.6,28,490430,490431
+COG7 CDS,N2,160,AT -> GG,Substitution,Substitution,96.8,29,490430,490431
+COG7 CDS,N3,69,AACGAA -> GCGCCT,Substitution,Substitution,87.8,29,490433,490438
+COG7 CDS,N2,159,AACGAA -> GCGCCT,Substitution,Substitution,89.0,30,490433,490438
+COG7 CDS,N1,128,AA -> CC,Substitution,Substitution,93.5,29,490437,490438
+COG7 CDS,N2,158,GCATGGGGAAC -> AATTAACCCGG,Truncation,Substitution,81.6,29,490440,490450
+COG7 CDS,N3,68,GCATGGGGAAC -> AATTAACCCGG,Truncation,Substitution,81.9,28,490440,490450
+COG7 CDS,N1,127,GC -> TA,Truncation,Substitution,93.5,29,490440,490441
+COG7 CDS,N1,126,GGGGAAC -> TAACCCG,Substitution,Substitution,86.7,30,490444,490450
+COG7 CDS,N3,67,A -> G,Substitution,SNP (transition),97.6,29,490452,490452
+COG7 CDS,N2,157,A -> G,Substitution,SNP (transition),99.2,29,490452,490452
+COG7 CDS,N1,125,AAC -> GGA,Substitution,Substitution,94.1,30,490452,490454
+COG7 CDS,N3,66,CT -> TC,Substitution,Substitution,91.5,29,490454,490455
+COG7 CDS,N2,156,CT -> TC,Substitution,Substitution,96.0,31,490454,490455
+COG7 CDS,N2,155,C -> G,Substitution,SNP (transversion),99.2,33,490457,490457
+COG7 CDS,N3,65,C -> G,Substitution,SNP (transversion),97.6,30,490457,490457
+COG7 CDS,N1,124,TCATCAAAAA -> GTCGACCTGC,Substitution,Substitution,81.8,32,490458,490467
+COG7 CDS,N3,64,AT -> GA,Substitution,Substitution,91.7,30,490460,490461
+COG7 CDS,N2,154,AT -> GA,Substitution,Substitution,96.8,32,490460,490461
+COG7 CDS,N2,153,AAAAAA -> CTGCAG,Substitution,Substitution,91.1,32,490463,490468
+COG7 CDS,N3,63,AAAAAA -> CTGCAG,Substitution,Substitution,88.2,30,490463,490468
+COG7 CDS,N1,123,CATACTCAATATATCA -> GCGTACGGTACCTCGT,Substitution,Substitution,79.4,31,490469,490484
+COG7 CDS,N2,152,A -> G,Substitution,SNP (transition),99.2,32,490470,490470
+COG7 CDS,N3,62,A -> G,Substitution,SNP (transition),97.6,30,490470,490470
+COG7 CDS,N3,61,TCA -> GGT,Substitution,Substitution,95.2,29,490474,490476
+COG7 CDS,N2,151,TCA -> GGT,Substitution,Substitution,94.4,31,490474,490476
+COG7 CDS,N3,60,TA -> CC,Substitution,Substitution,91.7,26,490478,490479
+COG7 CDS,N2,150,TA -> CC,Substitution,Substitution,96.8,29,490478,490479
+COG7 CDS,N3,59,ATCA -> CGT,Frame Shift,Deletion,91.7,25,490481,490484
+COG7 CDS,N2,149,ATCA -> CGT,Frame Shift,Deletion,95.2,27,490481,490484
+COG7 CDS,N1,122,ATC -> GTA,Substitution,Substitution,93.6,31,490487,490489
+COG7 CDS,N3,58,ATC -> GTA,Substitution,Substitution,93.1,29,490487,490489
+COG7 CDS,N2,148,ATC -> GTA,Substitution,Substitution,97.6,31,490487,490489
+COG7 CDS,N3,57,ACCCGTAATTGTCAA -> TGGAGAGACCTCGTG,Substitution,Substitution,79.5,29,490493,490507
+COG7 CDS,N1,121,ACCCGTAATTGTCAACT -> TGGAGAGACCTCGTGGA,Substitution,Substitution,81.6,31,490493,490509
+COG7 CDS,N2,147,ACCCGTAATTGTCAA -> TGGAGAGACCTCGTG,Substitution,Substitution,75.6,31,490493,490507
+COG7 CDS,N3,56,CT -> GA,Substitution,Substitution,95.1,30,490508,490509
+COG7 CDS,N2,146,CT -> GA,Substitution,Substitution,91.8,31,490508,490509
+COG7 CDS,N1,120,TA -> AT,Substitution,Substitution,92.1,32,490511,490512
+COG7 CDS,N2,145,TA -> AT,Substitution,Substitution,95.9,31,490511,490512
+COG7 CDS,N3,55,TA -> AT,Substitution,Substitution,96.4,30,490511,490512
+MEC1 CDS,N3,4,G -> T,Substitution,SNP (transversion),57.9,34,505498,505498
+FLO5 CDS,N1,19,T -> C,None,SNP (transition),80.8,24,526816,526816
+FLO5 CDS,N3,19,T -> C,None,SNP (transition),82.8,24,526816,526816
+FLO5 CDS,N2,29,T -> C,None,SNP (transition),69.9,24,526816,526816
+FLO5 CDS,N2,28,C -> T,None,SNP (transition),71.4,27,526849,526849
+FLO5 CDS,N1,18,C -> T,None,SNP (transition),80.5,25,526849,526849
+FLO5 CDS,N3,18,C -> T,None,SNP (transition),80.2,28,526849,526849
+FLO5 CDS,N2,27,C -> T,None,SNP (transition),66.2,27,526852,526852
+FLO5 CDS,N1,17,C -> T,None,SNP (transition),81.3,26,526852,526852
+FLO5 CDS,N3,17,C -> T,None,SNP (transition),82.1,28,526852,526852
+FLO5 CDS,N2,26,C -> T,None,SNP (transition),67.4,30,526888,526888
+FLO5 CDS,N1,16,C -> T,None,SNP (transition),85.0,27,526888,526888
+FLO5 CDS,N3,16,C -> T,None,SNP (transition),87.6,29,526888,526888
+FLO5 CDS,N2,25,ATG -> GTT,Substitution,Substitution,62.1,24,526979,526981
+FLO5 CDS,N3,15,ATG -> GTT,Substitution,Substitution,60.9,22,526979,526981
+FLO5 CDS,N1,15,ATG -> GTT,Substitution,Substitution,68.6,25,526979,526981
+FLO5 CDS,N2,24,G -> A,Substitution,SNP (transition),74.8,27,526988,526988
+FLO5 CDS,N3,14,G -> A,Substitution,SNP (transition),87.3,25,526988,526988
+FLO5 CDS,N1,14,G -> A,Substitution,SNP (transition),84.4,26,526988,526988
+FLO5 CDS,N3,13,C -> T,None,SNP (transition),66.9,23,526993,526993
+FLO5 CDS,N2,23,C -> T,None,SNP (transition),60.6,27,526993,526993
+FLO5 CDS,N1,13,C -> T,None,SNP (transition),74.7,25,526993,526993
+FLO5 CDS,N3,12,T -> G,None,SNP (transversion),65.7,24,527026,527026
+FLO5 CDS,N2,22,T -> G,None,SNP (transversion),56.8,23,527026,527026
+FLO5 CDS,N1,12,T -> G,None,SNP (transversion),67.3,24,527026,527026
+FLO5 CDS,N3,11,T -> A,None,SNP (transversion),52.5,24,527089,527089
+FLO5 CDS,N2,21,T -> A,None,SNP (transversion),62.3,21,527089,527089
+FLO5 CDS,N1,11,T -> A,None,SNP (transversion),57.1,22,527089,527089
+MTL1 CDS,N1,118,M -> C,None,SNP,50.9,28,529985,529985
+MTL1 CDS,N3,53,M -> C,None,SNP,51.6,27,529985,529985
+MTL1 CDS,N2,143,M -> A,None,SNP,57.4,30,529985,529985
+MTL1 CDS,N2,142,C -> A,None,SNP (transversion),50.9,29,530003,530003
+MTL1 CDS,N2,141,A -> T,Substitution,SNP (transversion),55.1,30,530040,530040
+IMD2 CDS,N1,3,T -> C,None,SNP (transition),68.7,33,555862,555862
+IMD2 CDS,N3,3,T -> C,None,SNP (transition),60.5,34,555862,555862
+IMD2 CDS,N3,2,T -> C,None,SNP (transition),59.9,31,555868,555868
+IMD2 CDS,N1,2,T -> C,None,SNP (transition),67.7,33,555868,555868
+IMD2 CDS,N3,1,A -> G,Substitution,SNP (transition),60.1,30,555873,555873
+IMD2 CDS,N1,1,A -> G,Substitution,SNP (transition),67.5,30,555873,555873
+IMD2 CDS,N2,1,AAT -> GAG,Substitution,Substitution,51.0,31,555893,555895
+DAN4 CDS,N2,11,G -> T,Substitution,SNP (transversion),57.7,28,714960,714960
+DAN4 CDS,N1,10,G -> T,Substitution,SNP (transversion),53.0,24,714972,714972
+DAN4 CDS,N2,10,G -> T,Substitution,SNP (transversion),58.3,29,714972,714972
+ECM38 CDS,N3,7,T -> A,None,SNP (transversion),50.0,22,727313,727313
+ECM38 CDS,N3,6,T -> C,None,SNP (transition),50.0,29,727316,727316
+ECM38 CDS,N3,5,T -> C,Substitution,SNP (transition),50.0,32,727321,727321
+ECM38 CDS,N2,6,A -> C,Substitution,SNP (transversion),50.0,24,727332,727332
+ECM38 CDS,N2,5,G -> T,Substitution,SNP (transversion),50.0,28,727343,727343
+HXT16 CDS,N2,7,C -> A,Substitution,SNP (transversion),96.8,7,733218,733218
+HXT16 CDS,N1,7,C -> A,Substitution,SNP (transversion),97.6,6,733218,733218
+HXT16 CDS,N3,6,C -> A,Substitution,SNP (transversion),95.7,6,733218,733218
+HXT16 CDS,N2,6,T -> G,Substitution,SNP (transversion),100.0,21,733792,733792
+HXT16 CDS,N3,5,T -> G,Substitution,SNP (transversion),98.5,22,733792,733792
+HXT16 CDS,N1,6,T -> G,Substitution,SNP (transversion),97.6,23,733792,733792
+HXT16 CDS,N3,4,R -> G,None,SNP,100.0,23,733802,733802
+HXT16 CDS,N2,5,R -> G,None,SNP,97.6,22,733802,733802
+HXT16 CDS,N1,5,R -> G,None,SNP,98.3,23,733802,733802
+HXT16 CDS,N2,4,T -> C,None,SNP (transition),98.8,22,733817,733817
+HXT16 CDS,N3,3,T -> C,None,SNP (transition),97.1,22,733817,733817
+HXT16 CDS,N1,4,T -> C,None,SNP (transition),98.3,23,733817,733817
+HXT16 CDS,N2,3,T -> G,None,SNP (transversion),97.5,21,733820,733820
+HXT16 CDS,N3,2,T -> G,None,SNP (transversion),98.6,19,733820,733820
+HXT16 CDS,N1,3,T -> G,None,SNP (transversion),99.2,22,733820,733820
+HXT16 CDS,N3,1,A -> T,Substitution,SNP (transversion),95.5,10,733951,733951
+HXT16 CDS,N1,2,A -> T,Substitution,SNP (transversion),97.5,11,733951,733951
+HXT16 CDS,N2,2,A -> T,Substitution,SNP (transversion),98.8,9,733951,733951
+MPH3 CDS,N1,0,T -> G,Substitution,SNP (transversion),54.1,12,738028,738028
+PAU6 CDS,N2,3,G -> T,Substitution,SNP (transversion),93.5,17,781635,781635
+PAU6 CDS,N1,2,G -> T,Substitution,SNP (transversion),95.3,20,781635,781635
+PAU6 CDS,N3,2,G -> T,Substitution,SNP (transversion),96.4,18,781635,781635
+PAU6 CDS,N2,2,T -> C,None,SNP (transition),96.0,16,781646,781646
+PAU6 CDS,N1,1,T -> C,None,SNP (transition),97.5,19,781646,781646
+PAU6 CDS,N3,1,T -> C,None,SNP (transition),92.9,20,781646,781646
+PAU6 CDS,N2,1,C -> T,None,SNP (transition),97.9,15,781649,781649
+PAU6 CDS,N1,0,C -> T,None,SNP (transition),97.4,20,781649,781649
+PAU6 CDS,N3,0,C -> T,None,SNP (transition),87.3,20,781649,781649
+PAU6 CDS,N2,0,C -> A,None,SNP (transversion),76.5,4,781781,781781
+gag protein CDS,N3,15,T -> A,Substitution,SNP (transversion),57.4,12,812338,812338
+BUL1 CDS,N1,2,C -> A,Substitution,SNP (transversion),57.3,33,817793,817793
+PAU19 CDS,N2,4,CCAGT -> TTTGG,Substitution,Substitution,81.3,28,921895,921899
+PAU19 CDS,N2,3,CT -> AC,Substitution,Substitution,100.0,30,921903,921904
+PAU19 CDS,N2,2,TC -> AT,Substitution,Substitution,100.0,29,921906,921907
+PAU19 CDS,N2,1,AARK -> TAAT,Truncation,Substitution,94.7,30,921909,921912
+PAU19 CDS,N3,1,RK -> T,Frame Shift,Deletion,100.0,21,921911,921912
+PAU19 CDS,N2,0,K -> G,Substitution,SNP,95.8,26,921918,921918
+PAU19 CDS,N3,0,K -> G,Substitution,SNP,100.0,27,921918,921918
+GDS1 CDS,N3,0,A -> T,Substitution,SNP (transversion),94.6,32,1004799,1004799
+GDS1 CDS,N1,0,A -> T,Substitution,SNP (transversion),97.5,34,1004799,1004799
+GDS1 CDS,N2,0,A -> T,Substitution,SNP (transversion),94.6,33,1004799,1004799
